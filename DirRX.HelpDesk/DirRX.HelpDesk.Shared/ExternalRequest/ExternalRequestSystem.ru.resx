@@ -58,22 +58,37 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Property_Name" xml:space="preserve">
-    <value>Name</value>
+  <data name="DisplayName" xml:space="preserve">
+    <value>Внешнее обращение</value>
   </data>
-  <data name="Action_LinkDocument" xml:space="preserve">
-    <value>LinkDocument</value>
+  <data name="Property_Author" xml:space="preserve">
+    <value>Автор</value>
   </data>
-  <data name="Action_LinkDocumentDescription" xml:space="preserve">
-    <value>Связать с документом</value>
+  <data name="Property_Result" xml:space="preserve">
+    <value>Результат</value>
   </data>
-  <data name="Action_LinkDocumentHint" xml:space="preserve">
-    <value>Связать с документом</value>
-  </data>
-  <data name="Action_LinkDocumentConfirmationMessage" xml:space="preserve">
+  <data name="Resource_d37e2e599d8b4bafb7fe690204088c31" xml:space="preserve">
     <value />
   </data>
-  <data name="Action_LinkDocumentConfirmationDescription" xml:space="preserve">
+  <data name="Control_d37e2e599d8b4bafb7fe690204088c31_EmptyText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_34bd6fba280342c09bddcae459507355" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_7aaa080a2818439aa2cc05c506ee9a9d" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_a931b15f5d094920a5ac1d14b3bffccb" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Control_a931b15f5d094920a5ac1d14b3bffccb_EmptyText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_88b8cf3f5b584714904df7ad5dcf8a13" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Control_88b8cf3f5b584714904df7ad5dcf8a13_EmptyText" xml:space="preserve">
     <value />
   </data>
 </root>
