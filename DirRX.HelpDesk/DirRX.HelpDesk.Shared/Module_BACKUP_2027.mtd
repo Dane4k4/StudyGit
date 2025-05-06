@@ -36,6 +36,8 @@
   "ExplorerTreeOrder": [
     {
       "ItemId": "777801d5-52c2-4f93-8d21-6bdfd81dd813"
+<<<<<<< HEAD
+=======
     },
     {
       "ItemId": "bc32b52c-bea6-4912-84d6-eaea44f58d57",
@@ -52,6 +54,7 @@
     {
       "ItemId": "7a02dc00-911c-4a43-9b8f-c96c5c502ca1",
       "PreviousItemId": "6ed3fc2a-e9af-4319-bef0-39611d8afc40"
+>>>>>>> fa592fe (добавление приложения к обращению)
     }
   ],
   "IconResourcesKeys": [],
